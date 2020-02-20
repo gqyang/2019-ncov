@@ -121,10 +121,11 @@ a {
   border-radius: 8px;
   text-decoration: none;
   margin: .5rem 0;
-  background-image: url(https://assets.dxycdn.com/gitrepo/bbs-mobile/dist/static/bg-image-3-2@2x.b56753cd.png);
+  /*background-image: url(https://assets.dxycdn.com/gitrepo/bbs-mobile/dist/static/bg-image-3-2@2x.b56753cd.png);*/
   background-position: left bottom;
   background-repeat: no-repeat;
   background-size: auto 3rem;
+  text-align: center;
 }
 
 .tip {
