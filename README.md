@@ -60,7 +60,3 @@ $ npm start
 
 另外，如果你需要更详细的数据，可以参考项目 [BlankerL/DXY-2019-nCoV-Crawler](https://github.com/BlankerL/DXY-2019-nCoV-Crawler)。
 
-## 截图
-
-<img src="./public/screen.png">
-
