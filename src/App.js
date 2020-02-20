@@ -107,7 +107,7 @@ function Fallback () {
   return (
     <div className="fallback">
       <div>
-        <a href="https://www.datatist.com">Deployed By Datatist</a>
+        信息来自开源数据
       </div>
     </div>
   )
@@ -154,7 +154,7 @@ function Header ({ province }) {
         <br />
         疫情实时动态 · { province ? province.name : '省市地图' }
       </h1>
-      <i>--来自开源数据</i>
+      <i>--Deployed by Datatist</i>
     </header>
   )
 }
