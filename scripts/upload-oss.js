@@ -10,7 +10,7 @@ const store = new OSS({
   accessKeyId: process.env.ACCESS_KEY,
   accessKeySecret: process.env.ACCESS_SECRET,
   region: 'oss-cn-beijing',
-  bucket: 'shanyue-ncov',
+  bucket: 'dt-ncov',
   timeout: '120s'
 })
 
