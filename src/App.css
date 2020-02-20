@@ -128,6 +128,11 @@ a {
   text-align: center;
 }
 
+.qrcode {
+  width: 200px;
+  height: 200px;
+}
+
 .tip {
   color: #888;
   padding: .5rem 0;
