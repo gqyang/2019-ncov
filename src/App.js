@@ -65,12 +65,12 @@ function News ({ province }) {
 function Summary () {
   return (
     <div className="card info">
-      /*
+      {/*
       <h2>实时更新</h2>
       <li>
       <img className="qrcode" alt="datatist" src="https://www.datatist.com/images/7deba3d7.code-fwh.jpeg"/>
       </li>
-      */
+      */}
     </div>
   )
 }
